@@ -1,0 +1,6 @@
+- Campo sexo en user con tabla de sexos
+- Campo zona muscular en exercise y muscle y tabla de zonas musculares (inferior, superior, etc)
+- Campo duracion aprox de la rutina
+- Campo fecha aprox de cumplimiento del objetivo de la rutina en user_routine
+- Campos de tiempos de descanso entre ejercicios/series en routine y exercise_routine
+- Campo máquina de ejercicio en exercise
